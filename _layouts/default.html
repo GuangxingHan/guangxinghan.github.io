@@ -5,6 +5,7 @@
     {% capture url %}{% if lchar == "/" %}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif %}{% endcapture %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
 
     <script
@@ -14,7 +15,7 @@
     
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"></script>
-
+    <script src="https://use.fontawesome.com/6009e33862.js"></script>
     {% if site.custom_head %}
         {% include head.html %}
     {% endif %}
@@ -31,7 +32,6 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
         <p>Email: hgx14@mails.tsinghua.edu.cn</p>
 
         <a href="https://github.com/GuangxingHan" target="_blank" rel="external" style="padding-left:10px;">
@@ -40,10 +40,6 @@
               <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i> </a>
         <a href="https://scholar.google.com/citations?user=1dh5WWUAAAAJ&hl=en" target="_blank" rel="external" style="padding-left:10px;">
               <i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i> </a>
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
 
         {% if site.show_downloads %}
           <ul class="downloads">
