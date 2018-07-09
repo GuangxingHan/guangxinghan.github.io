@@ -1,8 +1,8 @@
-title: Guangxing Han
-description: Phd student at Tsinghua University, major in computer vision and deep learning.
+title: Guangxing Han's Homepage
+description: Ph.D. Student, CS, Tsinghua.
 show_downloads: false
 git_branch: master
-logo_url:
+logo_url: 'img/han.jpg'
 google_analytics: true
 theme: 
 wiki_folder: 
