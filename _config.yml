@@ -1,0 +1,20 @@
+title: Guangxing Han
+description: Phd student at Tsinghua University, major in computer vision and deep learning.
+show_downloads: false
+git_branch: master
+logo_url:
+google_analytics: true
+theme: 
+wiki_folder: 
+use_github_wiki: false
+use_prose_io: false
+google_cse_token: 
+custom_head: false
+custom_sidebar: false
+custom_footer: false
+gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-feed
