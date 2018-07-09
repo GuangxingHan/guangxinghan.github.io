@@ -6,9 +6,6 @@ logo_url:
 google_analytics: true
 theme: 
 wiki_folder: 
-use_github_wiki: false
-use_prose_io: false
-google_cse_token: 
 custom_head: false
 custom_sidebar: false
 custom_footer: false
