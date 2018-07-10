@@ -1,53 +1,13 @@
-# Welcome to git-wiki demo
+# Welcome to Guangxing Han's Homepage
 
-This is a [demo](wiki/Demo.md) of git-wiki theme for jekyll.
+## Biography
 
-it's a full featured wiki powered by git, github pages and pull-requests!
+I am a 4th-year Ph.D student in Department of Computer Science and Technology in Tsinghua University. Before that, I received my bachelor's degree in Beijing University of Posts and Telecommunications (BUPT) in 2014.
 
-It means: 
+My current research topics include Object detection in images and videos, person Re-Identification and GANs.
 
-* Improvements in the cooperative aspect: forks, pull-requests and roles.
-* You can customize your wiki as you want with style sheets and even changing the layout.
-* No databases! Only static files that can be downloaded in a few seconds.
-* Markdown and html mixed together!
-* History, revision comparison and everything you need from a wiki platform.
-* You can edit your pages with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
+## Publications
 
-You can fork/copy the master branch now and start your wiki in just 1 minute.
+* <a href="https://ieeexplore.ieee.org/document/8296905/">Single Shot Object Detection with Top-Down Refinement</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> IEEE International Conference on Image Processing. Beijing, China, 2017 (Full paper, accepted rate 45.3%)<br>[[paper](https://ieeexplore.ieee.org/document/8296905/)][[code](https://github.com/GuangxingHan/SSD-TDR)]
 
-Then [share your wiki with us!](wiki/Showreel.md) please.
-
-**Note:**
-You can even include the github wiki as a submodule and enable the conf, but it's an experimental feature and it implies less advantages and greater disadvantages for now.
-
-## Installation instructions
-
-1. Fork or copy [this repository](https://github.com/drassil/git-wiki)
-
-2. copy and rename _config.yml.dist in _config.yml changing settings inside
-
-3. create your index.md in root directory
-
-4. push your changes in your repository, then configure the github pages in your repository settings
-
-5. Your wiki is ready!
-
-**Note:**
-
-We suggest the creation of a /wiki/ subfolder that collects all your .md pages (except index.md)
-
-## Current known limitations
-
-* Non-existent wiki page links are not "[red](wiki/red.md)".
-
-* You can't use the wiki link format: [[example]]. Please, use gh-pages links instead: \[example\](example) 
-
-## Customization
-
-You can create following files in _includes folder to costumize git-wiki without patching original code:
-
-* head.html  -> this file will be included in <head> tag allowing you to add css/js and any kind of head tags
-* sidebar.html -> this file will be included in left sidebar allowing you to create your widgets
-* comments.html -> this is mostly used to integrate social comments under page contents
-* footer.html -> this file will be included in left side of the footer.
-
+## Awards
