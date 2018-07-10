@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"></script>
     <script src="https://use.fontawesome.com/6009e33862.js"></script>
-    <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
     {% if site.custom_head %}
         {% include head.html %}
     {% endif %}
@@ -34,14 +34,14 @@
         </a>
         <p>Ph.D. Candidate, CS, Tsinghua University. <br> Email: hgx14@mails.tsinghua.edu.cn</p>
 
-        
+        <!--
         <a href="https://github.com/GuangxingHan" target="_blank" rel="external" style="padding-left:10px;">
               <i class="fa fa-github-square fa-2x" aria-hidden="true"></i> </a>
         <a href="http://www.linkedin.com/in/guangxing-han-19b0a999/" target="_blank" rel="external" style="padding-left:10px;">
               <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i> </a>
         <a href="https://scholar.google.com/citations?user=1dh5WWUAAAAJ&hl=en" target="_blank" rel="external" style="padding-left:10px;">
               <i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i> </a>
-        <!--
+        -->
         {% if site.twitter_username %}
         <a href="https://twitter.com/{{ site.twitter_username }}">
             <span class="fa-stack fa-lg">
@@ -84,7 +84,6 @@
                 <i class="fa  fa-stack-1x fa-inverse">知</i>
             </span>
         </a>
-        -->
 
         {% if site.show_downloads %}
           <ul class="downloads">
