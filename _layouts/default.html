@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"></script>
     <script src="https://use.fontawesome.com/6009e33862.js"></script>
+    <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
     {% if site.custom_head %}
         {% include head.html %}
     {% endif %}
@@ -41,55 +42,48 @@
         <a href="https://scholar.google.com/citations?user=1dh5WWUAAAAJ&hl=en" target="_blank" rel="external" style="padding-left:10px;">
               <i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i> </a>
         -->
-        <ul class="list-inline">
-            {% if site.twitter_username %}
-            <li>
-                <a href="https://twitter.com/{{ site.twitter_username }}">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                    </span>
-                </a>
-            </li>
-            {% endif %}
-            <li>
-                <a target="_blank" href="https://www.zhihu.com/people/han-guang-xing">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa  fa-stack-1x fa-inverse">知</i>
-                    </span>
-                </a>
-            </li>
-            {% if site.weibo_username %}
-            <li>
-                <a target="_blank" href="https://weibo.com/2138240515">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-                    </span>
-                </a>
-            </li>
-            {% endif %}
-            {% if site.facebook_username %}
-            <li>
-                <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                    </span>
-                </a>
-            </li>
-            {% endif %}
-            <li>
-                <a target="_blank" href="https://github.com/GuangxingHan">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                    </span>
-                </a>
-            </li>
-            
-        </ul>
+        {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.weibo_username %}
+        <a target="_blank" href="https://weibo.com/2138240515">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.facebook_username %}
+        <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        {% endif %}
+        <a target="_blank" href="https://github.com/GuangxingHan">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        <a target="_blank" href="https://scholar.google.com/citations?user=1dh5WWUAAAAJ&hl=en">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="ai ai-google-scholar-square fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        <a target="_blank" href="https://www.zhihu.com/people/han-guang-xing">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa  fa-stack-1x fa-inverse">知</i>
+            </span>
+        </a>
 
         {% if site.show_downloads %}
           <ul class="downloads">
