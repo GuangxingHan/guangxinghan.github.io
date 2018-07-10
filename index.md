@@ -16,5 +16,5 @@ My current research topics include object detection in images and videos, person
 
 ## Awards
 
-+* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
-+* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first in the bronze medals).
+* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
+* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first in the bronze medals).
