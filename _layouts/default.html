@@ -15,7 +15,7 @@
     
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"></script>
-    <script src="https://use.fontawesome.com/6009e33862.js"></script>
+    <!--<script src="https://use.fontawesome.com/6009e33862.js"></script>-->
     {% if site.custom_head %}
         {% include head.html %}
     {% endif %}
@@ -27,18 +27,69 @@
   </head>
   <body>
     <div class="wrapper">
-      <header >
-        <a href="{{ '/' | relative_url }}"><img src="{{ site.logo_url }}" >
+      <header>
+        <a href="{{ '/' | relative_url }}"><img src="{{ site.logo_url }}">
           <h1>Guangxing Han 韩光星</h1>
         </a>
         <p>Ph.D. Candidate, CS, Tsinghua University. <br> Email: hgx14@mails.tsinghua.edu.cn</p>
 
+        <!--
         <a href="https://github.com/GuangxingHan" target="_blank" rel="external" style="padding-left:10px;">
               <i class="fa fa-github-square fa-2x" aria-hidden="true"></i> </a>
         <a href="http://www.linkedin.com/in/guangxing-han-19b0a999/" target="_blank" rel="external" style="padding-left:10px;">
               <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i> </a>
         <a href="https://scholar.google.com/citations?user=1dh5WWUAAAAJ&hl=en" target="_blank" rel="external" style="padding-left:10px;">
               <i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i> </a>
+        -->
+        <ul class="list-inline">
+            {% if site.twitter_username %}
+            <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            <li>
+                <a target="_blank" href="https://www.zhihu.com/people/han-guang-xing">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa  fa-stack-1x fa-inverse">知</i>
+                    </span>
+                </a>
+            </li>
+            {% if site.weibo_username %}
+            <li>
+                <a target="_blank" href="https://weibo.com/2138240515">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.facebook_username %}
+            <li>
+                <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            <li>
+                <a target="_blank" href="https://github.com/GuangxingHan">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            
+        </ul>
 
         {% if site.show_downloads %}
           <ul class="downloads">
