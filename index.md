@@ -8,7 +8,7 @@ My current research topics include object detection in images and videos, person
 
 ## Publications
 
-* <a href="https://guangxinghan.github.io/">Semi-Supervised DFF: Decoupling Detection and Feature Flow for Video Object Detectors</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> ACM International Conference on Multimedia (**ACM MM**). Seoul, Korea, 2018. (Full paper, accepted rate 27.5%)<br>[[paper and code coming soon!](https://guangxinghan.github.io/)]
+* <a href="https://guangxinghan.github.io/papers/mm2018_final_submitted.pdf">Semi-Supervised DFF: Decoupling Detection and Feature Flow for Video Object Detectors</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> ACM International Conference on Multimedia (**ACM MM**). Seoul, Korea, 2018. (Full paper, accepted rate 27.5%)<br>[[paper](https://guangxinghan.github.io/papers/mm2018_final_submitted.pdf)][[code is coming soon!](https://guangxinghan.github.io/)]
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2">Revisiting Faster R-CNN: A Deeper Look at Region Proposal Network</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> The 24th International Conference On Neural Information Processing (**ICONIP**). Guangzhou, China, 2017. (Full paper, **Oral**, accepted rate 36.5%)<br>[[paper](https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2)]
 
