@@ -2,7 +2,7 @@
 
 ## Biography
 
-I am currently a 4th-year Ph.D candidate in Department of Computer Science and Technology in Tsinghua University, advised by Prof. Chongrong Li. Before that, I received my bachelor's degree in Beijing University of Posts and Telecommunications (BUPT) in 2014.
+I am currently a 4th-year Ph.D. candidate in Department of Computer Science and Technology in Tsinghua University, advised by Prof. Chongrong Li. Before that, I received my bachelor's degree in Beijing University of Posts and Telecommunications (BUPT) in 2014.
 
 My current research topics include object detection in images and videos, person re-identification and GANs.
 
