@@ -12,7 +12,7 @@ My current research topics include object detection in images and videos, person
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2">Revisiting Faster R-CNN: A Deeper Look at Region Proposal Network</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> The 24th International Conference On Neural Information Processing (**ICONIP**). Guangzhou, China, 2017. (Full paper, **Oral**, accepted rate 36.5%)<br>[[paper](https://guangxinghan.github.io/papers/ICONIP_2017.pdf)]
 
-* <a href="https://ieeexplore.ieee.org/document/8296905/">Single Shot Object Detection with Top-Down Refinement</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> IEEE International Conference on Image Processing (**ICIP**). Beijing, China, 2017. (Full paper, accepted rate 45.3%)<br>[[paper](https://ieeexplore.ieee.org/document/8296905/)][[code](https://guangxinghan.github.io/papers/ICIP_2017.pdf)]
+* <a href="https://ieeexplore.ieee.org/document/8296905/">Single Shot Object Detection with Top-Down Refinement</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> IEEE International Conference on Image Processing (**ICIP**). Beijing, China, 2017. (Full paper, accepted rate 45.3%)<br>[[paper](https://guangxinghan.github.io/papers/ICIP_2017.pdf)][[code](https://github.com/GuangxingHan/SSD-TDR)]
 
 ## Selected Awards
 
