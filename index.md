@@ -16,7 +16,7 @@ My current research topics include object detection in images and videos, person
 
 ## Selected Awards
 
-* 2018-2019 The First Prize Scholarship in Tsinghua University.
+* 2017-2018 The First Prize Scholarship in Tsinghua University.
 * ACM MM 2018 Student Travel Grants.
 * The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
 * The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first in the bronze medals).
