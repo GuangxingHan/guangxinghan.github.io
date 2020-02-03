@@ -25,4 +25,5 @@ My current research topics include object detection in images and videos, optica
 
 ## Professional Activities
 
-* Journal Reviewer: IEEE ACCESS (from June, 2019)
+* Journal Reviewer: IEEE ACCESS
+* Journal Reviewer: IEEE Transactions on Systems, Man and Cybernetics: Systems
