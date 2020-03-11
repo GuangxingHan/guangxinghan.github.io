@@ -1,4 +1,4 @@
-# Welcome to Guangxing Han's Homepage
+# Welcome to Guangxing Han(韩光星)'s Homepage
 
 ## Biography
 
