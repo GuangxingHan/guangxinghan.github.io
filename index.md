@@ -4,7 +4,7 @@
 
 I received my Ph.D. from the Department of Computer Science and Technology at Tsinghua University in 2019 under the supervision of Prof. Chongrong Li. Before that, I received my bachelor's degree at Beijing University of Posts and Telecommunications (BUPT) in 2014.
 
-My current research topics include object detection in images and videos, optical flow, video understanding, person re-identification, domain adaptation and GANs.
+My current research topics include object detection in images and videos, optical flow, video understanding, person re-identification, domain adaptation, GANs and few shot learning.
 
 ## Selected Publications
 
