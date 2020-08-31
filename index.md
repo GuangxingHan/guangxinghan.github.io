@@ -16,13 +16,6 @@ My current research topics include object detection in images and videos, optica
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-030-37731-1_50">Unsupervised Feature Propagation for Fast Video Object Detection using Generative Adversarial Networks</a><br> Xuan Zhang, **Guangxing Han**, Wenduo He<br> 26th International Conference on Multimedia Modeling (**MMM**). Daejeon, Korea, 2020. (Full paper)<br>[[paper](https://guangxinghan.github.io)]
 
-## Selected Awards
-
-* 2017-2018 The First Prize Scholarship in Tsinghua University.
-* ACM MM 2018 Student Travel Grants.
-* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
-* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first in the bronze medals).
-
 ## Professional Activities
 
 * Co-organizer of Instance-Level Recognition Workshop at ECCV'20 (Working on Artwork Recognition)
@@ -30,3 +23,9 @@ My current research topics include object detection in images and videos, optica
 * Journal Reviewer: IEEE ACCESS
 * Journal Reviewer: IEEE Transactions on Systems, Man and Cybernetics: Systems
 
+## Selected Awards
+
+* 2017-2018 The First Prize Scholarship in Tsinghua University.
+* ACM MM 2018 Student Travel Grants.
+* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
+* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first in the bronze medals).
