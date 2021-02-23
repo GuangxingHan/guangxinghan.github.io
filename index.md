@@ -22,6 +22,7 @@ My current research topics include object detection in images and videos, optica
 * Conference PC member/Reviewer: ACM MM 2020
 * Journal Reviewer: IEEE ACCESS
 * Journal Reviewer: IEEE Transactions on Systems, Man and Cybernetics: Systems
+* Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 ## Selected Awards
 
