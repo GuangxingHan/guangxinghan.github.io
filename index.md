@@ -18,8 +18,8 @@ My current research topics include object detection in images and videos, optica
 
 ## Professional Activities
 
-* Co-organizer of Instance-Level Recognition Workshop at ECCV'20 (Working on Artwork Recognition)
-* Conference PC member/Reviewer: ACM MM 2020
+* Co-organizer of Instance-Level Recognition Workshop at ECCV'20 (Working on Artwork Recognition), Instance-Level Recognition Workshop at ICCV'21
+* Conference PC member/Reviewer: ACM MM 2020, ACM MM 2021
 * Journal Reviewer: IEEE ACCESS
 * Journal Reviewer: IEEE Transactions on Systems, Man and Cybernetics: Systems
 * Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
