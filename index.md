@@ -26,6 +26,7 @@ My current research topics include object detection in images and videos, optica
 
 ## Selected Awards
 
+* Best Demo Award at [[NAACL 2021](https://2021.naacl.org/blog/best-demo-award/)].
 * 2017-2018 The First Prize Scholarship in Tsinghua University.
 * ACM MM 2018 Student Travel Grants.
 * The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
