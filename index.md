@@ -6,6 +6,10 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 
 My current research topics include object detection, few shot learning, transformer models and visual-linguistic applications.
 
+## News
+
+* Two papers accepted by ICCV 2021 (including one first author paper). Special thanks to all our collaborators.
+
 ## Selected Publications
 
 * <a href="https://guangxinghan.github.io/papers/ACMMM_2018.pdf">Semi-Supervised DFF: Decoupling Detection and Feature Flow for Video Object Detectors</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> ACM International Conference on Multimedia (**ACM MM**). Seoul, Korea, 2018. (Full paper, acceptance rate 27.5%)<br>[[paper](https://guangxinghan.github.io/papers/ACMMM_2018.pdf)][PPT][Poster][[code](https://github.com/GuangxingHan/semi-DFF)]
