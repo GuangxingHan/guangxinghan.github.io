@@ -8,7 +8,7 @@ My current research topics include object detection, few shot learning, transfor
 
 ## News
 
-* Two papers accepted by ICCV 2021 (including one first author paper). Special thanks to all the collaborators.
+* \[07/2021] Two papers accepted by ICCV 2021 (including one first author paper). Special thanks to all the collaborators.
 
 ## Selected Publications
 
