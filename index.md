@@ -11,7 +11,7 @@ My current research topics include object detection, few shot learning, transfor
 * \[07/2021] Two papers accepted by ICCV 2021 (including one first author paper). Special thanks to all the collaborators.
 
 ## Selected Publications
-
+(\* equal contribution)
 * Query Adaptive Few-Shot Object Detection with Heterogeneous Graph Convolutional Networks<br> **Guangxing Han**, Yicheng He, Shiyuan Huang, Jiawei Ma, Shih-Fu Chang<br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
 
 * Partner-Assisted Learning for Few-Shot Image Classification<br> Jiawei Ma\*, Hanchen Xie\*, **Guangxing Han**, Shih-Fu Chang, Aram Galstyan, Wael AbdAlmageed <br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
