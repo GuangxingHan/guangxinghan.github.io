@@ -16,6 +16,8 @@ My current research topics include object detection, few shot learning, transfor
 
 * Partner-Assisted Learning for Few-Shot Image Classification<br> Jiawei Ma*, Hanchen Xie*, **Guangxing Han**, Shih-Fu Chang, Aram Galstyan, Wael AbdAlmageed <br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
 
+* <a href="https://aclanthology.org/2021.naacl-demos.8.pdf">COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation</a><br>Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, **Guangxing Han**, Jiawei Ma, etc.<br> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Demonstrations (**NAACL**). Virtual, 2021.<br> **Best Demo Paper Award**
+
 * <a href="https://guangxinghan.github.io/papers/ACMMM_2018.pdf">Semi-Supervised DFF: Decoupling Detection and Feature Flow for Video Object Detectors</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> ACM International Conference on Multimedia (**ACM MM**). Seoul, Korea, 2018. (Full paper, acceptance rate 27.5%)<br>[[paper](https://guangxinghan.github.io/papers/ACMMM_2018.pdf)][PPT][Poster][[code](https://github.com/GuangxingHan/semi-DFF)]
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2">Revisiting Faster R-CNN: A Deeper Look at Region Proposal Network</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> The 24th International Conference On Neural Information Processing (**ICONIP**). Guangzhou, China, 2017. (Full paper, **Oral**, acceptance rate 36.5%)<br>[[paper](https://guangxinghan.github.io/papers/ICONIP_2017.pdf)][PPT]
