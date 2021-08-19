@@ -14,6 +14,8 @@ My current research topics include object detection, few shot learning, transfor
 
 * Query Adaptive Few-Shot Object Detection with Heterogeneous Graph Convolutional Networks<br> **Guangxing Han**, Yicheng He, Shiyuan Huang, Jiawei Ma, Shih-Fu Chang<br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
 
+* Partner-Assisted Learning for Few-Shot Image Classification<br> Jiawei Ma*, Hanchen Xie*, **Guangxing Han**, Shih-Fu Chang, Aram Galstyan, Wael AbdAlmageed <br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
+
 * <a href="https://guangxinghan.github.io/papers/ACMMM_2018.pdf">Semi-Supervised DFF: Decoupling Detection and Feature Flow for Video Object Detectors</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> ACM International Conference on Multimedia (**ACM MM**). Seoul, Korea, 2018. (Full paper, acceptance rate 27.5%)<br>[[paper](https://guangxinghan.github.io/papers/ACMMM_2018.pdf)][PPT][Poster][[code](https://github.com/GuangxingHan/semi-DFF)]
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2">Revisiting Faster R-CNN: A Deeper Look at Region Proposal Network</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> The 24th International Conference On Neural Information Processing (**ICONIP**). Guangzhou, China, 2017. (Full paper, **Oral**, acceptance rate 36.5%)<br>[[paper](https://guangxinghan.github.io/papers/ICONIP_2017.pdf)][PPT]
