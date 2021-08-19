@@ -14,7 +14,7 @@ My current research topics include object detection, few shot learning, transfor
 
 * Query Adaptive Few-Shot Object Detection with Heterogeneous Graph Convolutional Networks<br> **Guangxing Han**, Yicheng He, Shiyuan Huang, Jiawei Ma, Shih-Fu Chang<br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
 
-* Partner-Assisted Learning for Few-Shot Image Classification<br> Jiawei Ma*, Hanchen Xie*, **Guangxing Han**, Shih-Fu Chang, Aram Galstyan, Wael AbdAlmageed <br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
+* Partner-Assisted Learning for Few-Shot Image Classification<br> Jiawei Ma\*, Hanchen Xie\*, **Guangxing Han**, Shih-Fu Chang, Aram Galstyan, Wael AbdAlmageed <br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br>
 
 * <a href="https://aclanthology.org/2021.naacl-demos.8.pdf">COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation</a><br>Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, **Guangxing Han**, Jiawei Ma, etc.<br> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Demonstrations (**NAACL**). Virtual, 2020. **Best Demo Paper Award**<br> [[paper](https://aclanthology.org/2021.naacl-demos.8.pdf)] [[Poster](https://eaglew.github.io/files/naacl2021-poster.pdf)][[Datasset](http://blender.cs.illinois.edu/covid19/)]
 
