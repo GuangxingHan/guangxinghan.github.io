@@ -10,9 +10,12 @@ My current research topics include object detection, few shot learning, transfor
 
 ## News
 
+* \[10/2021] One paper accepted by NeurIPS 2021 Datasets and Benchmarks Track.
 * \[07/2021] Two papers accepted by ICCV 2021 (including one first author paper). Special thanks to all the collaborators.
 
 ## Selected Publications
+
+* <a href="https://openreview.net/forum?id=fnuAjFL7MXy"> Instance-level Recognition for Artworks: The MET Dataset</a><br> Nikolaos-Antonios Ypsilantis, Noa Garcia, **Guangxing Han**, Sarah Ibrahimi, Nanne Van Noord, Giorgos Tolias<br> NeurIPS 2021 Datasets and Benchmarks Track (**NeurIPS**). Virtual, 2021. (Full paper)<br> [[paper](https://openreview.net/pdf?id=fnuAjFL7MXy)][[Project](http://cmp.felk.cvut.cz/met/)]
 
 * <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Query_Adaptive_Few-Shot_Object_Detection_With_Heterogeneous_Graph_Convolutional_Networks_ICCV_2021_paper.pdf">Query Adaptive Few-Shot Object Detection with Heterogeneous Graph Convolutional Networks</a><br> **Guangxing Han**, Yicheng He, Shiyuan Huang, Jiawei Ma, Shih-Fu Chang<br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br> [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Query_Adaptive_Few-Shot_Object_Detection_With_Heterogeneous_Graph_Convolutional_Networks_ICCV_2021_paper.pdf)][Code coming soon!]
 
