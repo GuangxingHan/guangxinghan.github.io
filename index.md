@@ -10,7 +10,7 @@ My current research topics include object detection, few shot learning, transfor
 
 ## News
 
-* \[10/2021] One paper accepted by NeurIPS 2021 Datasets and Benchmarks Track.
+* \[10/2021] One paper accepted by NeurIPS 2021 Datasets and Benchmarks Track. Congratulations to the team!
 * \[07/2021] Two papers accepted by ICCV 2021 (including one first author paper). Special thanks to all the collaborators.
 
 ## Selected Publications
@@ -21,7 +21,7 @@ My current research topics include object detection, few shot learning, transfor
 
 * <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Partner-Assisted_Learning_for_Few-Shot_Image_Classification_ICCV_2021_paper.pdf">Partner-Assisted Learning for Few-Shot Image Classification</a><br> Jiawei Ma\*, Hanchen Xie\*, **Guangxing Han**, Shih-Fu Chang, Aram Galstyan, Wael AbdAlmageed <br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br> [[paper](https://arxiv.org/abs/2109.07607)]
 
-* <a href="https://aclanthology.org/2021.naacl-demos.8.pdf">COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation</a><br>Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, **Guangxing Han**, Jiawei Ma, etc.<br> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Demonstrations (**NAACL**). Virtual, 2021. **Best Demo Paper Award**<br> [[paper](https://aclanthology.org/2021.naacl-demos.8.pdf)] [[Poster](https://eaglew.github.io/files/naacl2021-poster.pdf)][[Dataset](http://blender.cs.illinois.edu/covid19/)]<br> A collaboration with researchers from multiple research institutions. My contribution is the figure extraction, subfigure segmentation from pdf files and cross-modal knowledge graph construction.
+* <a href="https://aclanthology.org/2021.naacl-demos.8.pdf">COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation</a><br>Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, **Guangxing Han**, Jiawei Ma, etc.<br> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Demonstrations (**NAACL**). Virtual, 2021. **Best Demo Paper Award**<br> [[paper](https://aclanthology.org/2021.naacl-demos.8.pdf)] [[Poster](https://eaglew.github.io/files/naacl2021-poster.pdf)][[Dataset](http://blender.cs.illinois.edu/covid19/)]<br> A collaboration with researchers from multiple research institutions. This paper proposes a novel framework, COVID-KG, to extract fine-grained multimedia knowledge elements from scientific literature. My contribution is the figure extraction, subfigure segmentation from pdf files and extend the KG by cross-modal entity grounding.
 
 * <a href="https://dl.acm.org/doi/10.1145/3240508.3240693">Semi-Supervised DFF: Decoupling Detection and Feature Flow for Video Object Detectors</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> ACM International Conference on Multimedia (**ACM MM**). Seoul, Korea, 2018. (Full paper, acceptance rate 27.5%)<br>[[paper](https://guangxinghan.github.io/papers/ACMMM_2018.pdf)][Slide][Poster][[code](https://github.com/GuangxingHan/semi-DFF)]
 
