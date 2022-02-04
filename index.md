@@ -18,7 +18,7 @@ My current research topics include object detection, few shot learning, transfor
 
 * <a href="https://arxiv.org/abs/2104.07719">Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment</a><br> **Guangxing Han**, Shiyuan Huang, Jiawei Ma, Yicheng He, Shih-Fu Chang<br> Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI**). Virtual, 2022. (Full paper, acceptance rate 15%)<br> [[Paper](https://arxiv.org/abs/2104.07719)][Code coming soon!]
 
-* <a href="https://openreview.net/forum?id=fnuAjFL7MXy"> The Met Dataset: Instance-level Recognition for Artworks </a><br> Nikolaos-Antonios Ypsilantis, Noa Garcia, **Guangxing Han**, Sarah Ibrahimi, Nanne Van Noord, Giorgos Tolias<br> NeurIPS 2021 Datasets and Benchmarks Track (**NeurIPS**). Virtual, 2021. (Full paper)<br> [[Paper](https://openreview.net/pdf?id=fnuAjFL7MXy)][[Project](http://cmp.felk.cvut.cz/met/)] <br> A collaboration with researchers from multiple research institutions across the world. This paper introduces a new large-scale dataset for instance-level recognition (ILR) on artworks. My contribution is to prepare the dataset, including taking photos at The Met in NYC and crawling images from Flickr as queries, and crawling images from Wikimedia Commons as distractors, etc.
+* <a href="https://openreview.net/forum?id=fnuAjFL7MXy"> The Met Dataset: Instance-level Recognition for Artworks </a><br> Nikolaos-Antonios Ypsilantis, Noa Garcia, **Guangxing Han**, Sarah Ibrahimi, Nanne Van Noord, Giorgos Tolias<br> NeurIPS 2021 Datasets and Benchmarks Track (**NeurIPS**). Virtual, 2021. (Full paper)<br> [[Paper](https://arxiv.org/pdf/2202.01747.pdf)][[Project](http://cmp.felk.cvut.cz/met/)] <br> A collaboration with researchers from multiple research institutions across the world. This paper introduces a new large-scale dataset for instance-level recognition (ILR) on artworks. My contribution is to prepare the dataset, including taking photos at The Met in NYC and crawling images from Flickr as queries, and crawling images from Wikimedia Commons as distractors, etc.
 
 * <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Query_Adaptive_Few-Shot_Object_Detection_With_Heterogeneous_Graph_Convolutional_Networks_ICCV_2021_paper.pdf">Query Adaptive Few-Shot Object Detection with Heterogeneous Graph Convolutional Networks</a><br> **Guangxing Han**, Yicheng He, Shiyuan Huang, Jiawei Ma, Shih-Fu Chang<br> IEEE/CVF International Conference on Computer Vision (**ICCV**). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br> [[Paper](https://arxiv.org/pdf/2112.09791.pdf)][Code coming soon!]
 
@@ -37,7 +37,7 @@ My current research topics include object detection, few shot learning, transfor
 ## Professional Activities
 
 * Co-organizer of Instance-Level Recognition Workshop at ECCV'20 and ICCV'21 (Working on Artwork Recognition)
-* Conference PC member/Reviewer: CVPR 2022, ACM MM 2021, ACM MM Asia 2021, ACM MM 2020
+* Conference PC member/Reviewer: CVPR 2022, ACM MM 2022/2021/2020, ACM MM Asia 2021,
 * Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE ACCESS, IEEE Signal Processing Letters
 
 ## Selected Awards
