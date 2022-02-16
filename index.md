@@ -16,7 +16,7 @@ My current research topics include object detection, few shot learning, transfor
 
 ## Selected Publications
 
-* <a href="https://arxiv.org/abs/2104.07719">Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment</a><br> **Guangxing Han**, Shiyuan Huang, Jiawei Ma, Yicheng He, Shih-Fu Chang<br> Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI**). Virtual, 2022. (Full paper, **Oral**, acceptance rate 4.3%)<br> [[Paper](https://arxiv.org/pdf/2104.07719.pdf)][Code coming soon!]
+* <a href="https://arxiv.org/abs/2104.07719">Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment</a><br> **Guangxing Han**, Shiyuan Huang, Jiawei Ma, Yicheng He, Shih-Fu Chang<br> Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI**). Virtual, 2022. (Full paper, **Oral**, acceptance rate 5%)<br> [[Paper](https://arxiv.org/pdf/2104.07719.pdf)][Code coming soon!]
 
 * <a href="https://openreview.net/forum?id=fnuAjFL7MXy"> The Met Dataset: Instance-level Recognition for Artworks </a><br> Nikolaos-Antonios Ypsilantis, Noa Garcia, **Guangxing Han**, Sarah Ibrahimi, Nanne Van Noord, Giorgos Tolias<br> NeurIPS 2021 Datasets and Benchmarks Track (**NeurIPS**). Virtual, 2021. (Full paper)<br> [[Paper](https://arxiv.org/pdf/2202.01747.pdf)][[Project](http://cmp.felk.cvut.cz/met/)] <br> A collaboration with researchers from multiple research institutions across the world. This paper introduces a new large-scale dataset for instance-level recognition (ILR) on artworks. My contribution is to prepare the dataset, including taking photos at The Met in NYC and crawling images from Flickr as queries, and crawling images from Wikimedia Commons as distractors, etc.
 
