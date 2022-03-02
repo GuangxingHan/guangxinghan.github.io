@@ -10,6 +10,7 @@ My current research topics include object detection, few shot learning, transfor
 
 ## News
 
+* \[03/2022] Two papers accepted by CVPR 2022 (including one first-author paper). Thanks to all the collaborators.
 * \[12/2021] One first-author paper accepted by AAAI 2022. Thanks to all the collaborators.
 * \[10/2021] One paper accepted by NeurIPS 2021 Datasets and Benchmarks Track. Congratulations to the amazing team!
 * \[07/2021] Two papers accepted by ICCV 2021 (including one first-author paper). Special thanks to all the collaborators.
