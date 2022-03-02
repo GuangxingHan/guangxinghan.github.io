@@ -42,7 +42,7 @@ My current research topics include object detection, few shot learning, meta-lea
 ## Professional Activities
 
 * Co-organizer of Instance-Level Recognition Workshop at ECCV'20 and ICCV'21 (Working on Artwork Recognition)
-* Conference PC member/Reviewer: CVPR 2022, ACM MM 2022/2021/2020, ACM MM Asia 2021,
+* Conference PC member/Reviewer: CVPR 2022, ECCV 2022, ACM MM 2022/2021/2020, ACM MM Asia 2021,
 * Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE ACCESS, IEEE Signal Processing Letters
 
 ## Selected Awards
