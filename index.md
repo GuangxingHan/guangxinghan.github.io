@@ -17,9 +17,9 @@ My current research topics include object detection, few shot learning, meta-lea
 
 ## Selected Publications
 
-* <a href="https://arxiv.org/abs/2203.15021">Few-Shot Object Detection with Fully Cross-Transformer</a><br> **Guangxing Han**, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Virtual, 2022. (Full paper, **Oral**)<br> [[Paper](https://arxiv.org/abs/2203.15021)]
+* <a href="https://arxiv.org/abs/2203.15021">Few-Shot Object Detection with Fully Cross-Transformer</a><br> **Guangxing Han**, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Virtual, 2022. (Full paper, **Oral**)<br> [[Paper](https://arxiv.org/pdf/2203.15021.pdf)]
 
-* <a href="https://arxiv.org/abs/2012.13073">Task-Adaptive Negative Class Envision for Few-Shot Open-Set Recognition</a><br> Shiyuan Huang\*, Jiawei Ma\*, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Virtual, 2022. (Full paper)<br> [[Paper](https://arxiv.org/abs/2012.13073)]
+* <a href="https://arxiv.org/abs/2012.13073">Task-Adaptive Negative Class Envision for Few-Shot Open-Set Recognition</a><br> Shiyuan Huang\*, Jiawei Ma\*, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Virtual, 2022. (Full paper)<br> [[Paper](https://arxiv.org/abs/2012.13073.pdf)]
 
 * <a href="https://arxiv.org/abs/2104.07719">Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment</a><br> **Guangxing Han**, Shiyuan Huang, Jiawei Ma, Yicheng He, Shih-Fu Chang<br> Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI**). Virtual, 2022. (Full paper, **Oral**, acceptance rate 5%)<br> [[Paper](https://arxiv.org/pdf/2104.07719.pdf)][[code](https://github.com/GuangxingHan/Meta-Faster-R-CNN)]
 
