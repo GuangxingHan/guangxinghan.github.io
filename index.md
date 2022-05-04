@@ -17,7 +17,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## Selected Publications
 
-* <a href="https://arxiv.org/abs/2203.15021">Few-Shot Object Detection with Fully Cross-Transformer</a><br> **Guangxing Han**, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Virtual, 2022. (Full paper, **Oral**)<br> [[Paper](https://arxiv.org/pdf/2203.15021.pdf)]
+* <a href="https://arxiv.org/abs/2203.15021">Few-Shot Object Detection with Fully Cross-Transformer</a><br> **Guangxing Han**, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Virtual, 2022. (Full paper, **Oral**, acceptance rate 4.2%)<br> [[Paper](https://arxiv.org/pdf/2203.15021.pdf)]
 
 * <a href="https://arxiv.org/abs/2012.13073">Task-Adaptive Negative Class Envision for Few-Shot Open-Set Recognition</a><br> Shiyuan Huang\*, Jiawei Ma\*, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Virtual, 2022. (Full paper)<br> [[Paper](https://arxiv.org/pdf/2012.13073.pdf)]
 
