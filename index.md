@@ -39,16 +39,16 @@ My current research topics are computer vision and deep learning, and I am parti
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-030-37731-1_50">Unsupervised Feature Propagation for Fast Video Object Detection using Generative Adversarial Networks</a><br> Xuan Zhang, **Guangxing Han**, Wenduo He<br> 26th International Conference on Multimedia Modeling (**MMM**). Daejeon, Korea, 2020. (Full paper)<br>[[Paper](https://guangxinghan.github.io)]
 
-## Professional Activities
+## Professional Service
 
 * Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) & [ICCV'21](https://ilr-workshop.github.io/ICCVW2021/) (Working on Artwork Recognition), and [ECCV'22](https://ilr-workshop.github.io/ECCVW2022/).
-* Conference PC member/Reviewer: CVPR 2022, ECCV 2022, ACM MM 2022/2021/2020, ACM MM Asia 2021.
+* Conference PC member/Reviewer: CVPR 2022, ECCV 2022, ACM MM 2022/2021/2020, ACM MM Asia 2021, 3DV 2022.
 * Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE ACCESS, IEEE Signal Processing Letters.
 
 ## Selected Awards
 
-* Best Demo Award at [NAACL 2021](https://2021.naacl.org/blog/best-demo-award/).
-* 2017-2018 The First Prize Scholarship in Tsinghua University.
+* Best Demo Paper Award at [NAACL 2021](https://2021.naacl.org/blog/best-demo-award/).
+* 2017-2018 The First Prize Scholarship at Tsinghua University.
 * ACM MM 2018 Student Travel Grants.
 * The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
 * The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first among all teams with bronze medal).
