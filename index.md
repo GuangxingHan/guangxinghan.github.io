@@ -10,6 +10,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## News
 
+* \[06/2022] I will attend CVPR 2022 in person, and hope to see you guys in New Orleans.
 * \[03/2022] Two papers accepted by CVPR 2022 (including one first-author paper). Thanks to all the collaborators.
 * \[12/2021] One first-author paper accepted by AAAI 2022. Thanks to all the collaborators.
 * \[10/2021] One paper accepted by NeurIPS 2021 Datasets and Benchmarks Track. Congratulations to the amazing team!
