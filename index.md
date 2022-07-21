@@ -19,6 +19,10 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## Selected Publications
 
+* <a href="https://guangxinghan.github.io">Few-Shot End-to-End Object Detection via Constantly Concentrated Encoding across Heads</a><br> Jiawei Ma, **Guangxing Han**, Shiyuan Huang, Yuncong Yang, Shih-Fu Chang<br> European Conference on Computer Vision (**ECCV**), Tel-Aviv, 2022. <br> [[Paper Coming Soon](https://guangxinghan.github.io/)][[Code](https://github.com/Phoenix-V/coco-rcnn)]
+
+* <a href="https://arxiv.org/abs/2207.09625">Explicit Image Caption Editing</a><br>Zhen Wang\*, Long Chen\*, Wenbo Ma, **Guangxing Han**, Yulei Niu, Jian Shao, and Jun Xiao<br> European Conference on Computer Vision (**ECCV**), Tel-Aviv, 2022. <br> [[Paper](https://arxiv.org/pdf/2207.09625.pdf)][[Code](https://github.com/baaaad/ECE)]
+
 * <a href="https://arxiv.org/abs/2203.15021">Few-Shot Object Detection with Fully Cross-Transformer</a><br> **Guangxing Han**, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). New Orleans, Louisiana, 2022. (Full paper, **Oral**, acceptance rate 4.2%)<br> [[Paper](https://arxiv.org/pdf/2203.15021.pdf)]
 
 * <a href="https://arxiv.org/abs/2012.13073">Task-Adaptive Negative Class Envision for Few-Shot Open-Set Recognition</a><br> Shiyuan Huang\*, Jiawei Ma\*, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). New Orleans, Louisiana, 2022. (Full paper)<br> [[Paper](https://arxiv.org/pdf/2012.13073.pdf)][[code](https://github.com/shiyuanh/TANE)]
