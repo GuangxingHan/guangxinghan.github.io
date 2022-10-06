@@ -10,6 +10,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## News
 
+* \[10/2022] One paper accepted by EMNLP 2022. Congratulations to Long.
 * \[07/2022] Two papers accepted by ECCV 2022. Congratulations to Jiawei and Long.
 * \[06/2022] I will attend CVPR 2022 in person, and hope to see you guys in New Orleans.
 * \[03/2022] Two papers accepted by CVPR 2022 (including one first-author paper). Thanks to all the collaborators.
