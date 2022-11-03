@@ -20,9 +20,9 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## Selected Publications
 
-* <a href="https://guangxinghan.github.io">Weakly-Supervised Temporal Article Grounding</a><br> Long Chen, Yulei Niu, Brian Chen, Xudong Lin, **Guangxing Han**, Christopher Thomas, Hammad Ayyubi, Heng Ji, and Shih-Fu Chang<br> The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), Abu Dhabi, 2022. <br> [[Paper Coming Soon](https://guangxinghan.github.io/)]
+* <a href="https://arxiv.org/abs/2210.12444">Weakly-Supervised Temporal Article Grounding</a><br> Long Chen, Yulei Niu, Brian Chen, Xudong Lin, **Guangxing Han**, Christopher Thomas, Hammad Ayyubi, Heng Ji, and Shih-Fu Chang<br> The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), Abu Dhabi, 2022. <br> [[Paper](https://arxiv.org/pdf/2210.12444.pdf)][[Code](https://github.com/zjuchenlong/WSAG)]
 
-* <a href="https://guangxinghan.github.io">Few-Shot End-to-End Object Detection via Constantly Concentrated Encoding across Heads</a><br> Jiawei Ma, **Guangxing Han**, Shiyuan Huang, Yuncong Yang, Shih-Fu Chang<br> European Conference on Computer Vision (**ECCV**), Tel-Aviv, 2022. <br> [[Paper Coming Soon](https://guangxinghan.github.io/)][[Code](https://github.com/Phoenix-V/coco-rcnn)]
+* <a href="https://link.springer.com/chapter/10.1007/978-3-031-19809-0_4">Few-Shot End-to-End Object Detection via Constantly Concentrated Encoding across Heads</a><br> Jiawei Ma, **Guangxing Han**, Shiyuan Huang, Yuncong Yang, Shih-Fu Chang<br> European Conference on Computer Vision (**ECCV**), Tel-Aviv, 2022. <br> [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860056.pdf)][[Code](https://github.com/Phoenix-V/coco-rcnn)]
 
 * <a href="https://arxiv.org/abs/2207.09625">Explicit Image Caption Editing</a><br>Zhen Wang\*, Long Chen\*, Wenbo Ma, **Guangxing Han**, Yulei Niu, Jian Shao, and Jun Xiao<br> European Conference on Computer Vision (**ECCV**), Tel-Aviv, 2022. <br> [[Paper](https://arxiv.org/pdf/2207.09625.pdf)][[Code](https://github.com/baaaad/ECE)]
 
