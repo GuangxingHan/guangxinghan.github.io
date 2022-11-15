@@ -46,7 +46,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 * <a href="https://ieeexplore.ieee.org/document/8296905/">Single Shot Object Detection with Top-Down Refinement</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> IEEE International Conference on Image Processing (**ICIP**). Beijing, China, 2017. (Full paper, acceptance rate 45.3%)<br>[[Paper](https://guangxinghan.github.io/papers/ICIP_2017.pdf)][Poster][[Code](https://github.com/GuangxingHan/SSD-TDR)]
 
-* <a href="https://link.springer.com/chapter/10.1007/978-3-030-37731-1_50">Unsupervised Feature Propagation for Fast Video Object Detection using Generative Adversarial Networks</a><br> Xuan Zhang, **Guangxing Han**, Wenduo He<br> 26th International Conference on Multimedia Modeling (**MMM**). Daejeon, Korea, 2020. (Full paper)<br>[[Paper](https://guangxinghan.github.io)]
+* <a href="https://link.springer.com/chapter/10.1007/978-3-030-37731-1_50">Unsupervised Feature Propagation for Fast Video Object Detection using Generative Adversarial Networks</a><br> Xuan Zhang, **Guangxing Han**, Wenduo He<br> 26th International Conference on Multimedia Modeling (**MMM**). Daejeon, Korea, 2020. (Full paper)<br>[[Paper](https://guangxinghan.github.io)] <br> Student first-author.
 
 ## Professional Services
 
