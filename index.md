@@ -20,7 +20,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## Selected Publications
 
-* <a href="https://openreview.net/forum?id=CIFOsnhZvON">TempCLR: Temporal Alignment Representation with Contrastive Learning</a><br> Yuncong Yang, Jiawei Ma, Shiyuan Huang, Long Chen, Xudong Lin, **Guangxing Han**, Shih-Fu Chang<br> The Eleventh International Conference on Learning Representations (**ICLR**), Kigali, Rwanda, 2023. <br> [[Paper](https://arxiv.org/pdf/2212.13738.pdf)]
+* <a href="https://openreview.net/forum?id=CIFOsnhZvON">TempCLR: Temporal Alignment Representation with Contrastive Learning</a><br> Yuncong Yang, Jiawei Ma, Shiyuan Huang, Long Chen, Xudong Lin, **Guangxing Han**, Shih-Fu Chang<br> The Eleventh International Conference on Learning Representations (**ICLR**), Kigali, Rwanda, 2023. <br> [[Paper](https://arxiv.org/pdf/2212.13738.pdf)][[Code Coming Soon](https://guangxinghan.github.io/)]
 
 * <a href="https://arxiv.org/abs/2210.12444">Weakly-Supervised Temporal Article Grounding</a><br> Long Chen, Yulei Niu, Brian Chen, Xudong Lin, **Guangxing Han**, Christopher Thomas, Hammad Ayyubi, Heng Ji, and Shih-Fu Chang<br> The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), Abu Dhabi, 2022. <br> [[Paper](https://arxiv.org/pdf/2210.12444.pdf)][[Code](https://github.com/zjuchenlong/WSAG)]
 
