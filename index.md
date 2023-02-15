@@ -18,6 +18,9 @@ My current research topics are computer vision and deep learning, and I am parti
 * \[10/2021] One paper accepted by NeurIPS 2021 Datasets and Benchmarks Track. Congratulations to the amazing team!
 * \[07/2021] Two papers accepted by ICCV 2021 (including one first-author paper). Special thanks to all the collaborators.
 
+## ArXiv Preprints
+* <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang<br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
+
 ## Selected Publications
 
 * <a href="https://openreview.net/forum?id=CIFOsnhZvON">TempCLR: Temporal Alignment Representation with Contrastive Learning</a><br> Yuncong Yang, Jiawei Ma, Shiyuan Huang, Long Chen, Xudong Lin, **Guangxing Han**, Shih-Fu Chang<br> The Eleventh International Conference on Learning Representations (**ICLR**), Kigali, Rwanda, 2023. <br> [[Paper](https://arxiv.org/pdf/2212.13738.pdf)][[Code Coming Soon](https://guangxinghan.github.io/)]
