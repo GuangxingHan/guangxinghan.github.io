@@ -10,6 +10,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## News
 
+* \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. Congratulations to Jiawei and Han Lin.
 * \[10/2022] One paper accepted by EMNLP 2022. Congratulations to Long.
 * \[07/2022] Two papers accepted by ECCV 2022. Congratulations to Jiawei and Long.
 * \[06/2022] I will attend CVPR 2022 in person, and hope to see you guys in New Orleans.
@@ -22,6 +23,10 @@ My current research topics are computer vision and deep learning, and I am parti
 * <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang<br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
 
 ## Selected Publications
+
+* <a href="https://guangxinghan.github.io/">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin, **Guangxing Han** (Corresponding Author), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper and Code Coming Soon](https://guangxinghan.github.io/)]
+
+* <a href="https://guangxinghan.github.io/">DiGeo: Discriminative Geometry-Aware Learning forGeneralized Few-Shot Object Detection</a><br> Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper and Code Coming Soon](https://guangxinghan.github.io/)]
 
 * <a href="https://openreview.net/forum?id=CIFOsnhZvON">TempCLR: Temporal Alignment Representation with Contrastive Learning</a><br> Yuncong Yang, Jiawei Ma, Shiyuan Huang, Long Chen, Xudong Lin, **Guangxing Han**, Shih-Fu Chang<br> The Eleventh International Conference on Learning Representations (**ICLR**), Kigali, Rwanda, 2023. <br> [[Paper](https://arxiv.org/pdf/2212.13738.pdf)][[Code Coming Soon](https://guangxinghan.github.io/)]
 
