@@ -24,7 +24,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## Selected Publications
 
-* <a href="https://guangxinghan.github.io/">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin\*, **Guangxing Han**\* (**Corresponding Author**), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper and Code Coming Soon](https://guangxinghan.github.io/)] <br> [Han Lin](https://hl-hanlin.github.io/) is a Columbia CS master student working with me.
+* <a href="https://guangxinghan.github.io/">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin\*, **Guangxing Han**\* (**Corresponding Author**), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper and Code Coming Soon](https://github.com/HL-hanlin/SMKD/)] <br> [Han Lin](https://hl-hanlin.github.io/) is a Columbia CS master student working with me.
 
 * <a href="https://guangxinghan.github.io/">DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection</a><br> Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper and Code Coming Soon](https://guangxinghan.github.io/)]
 
