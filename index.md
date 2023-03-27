@@ -62,7 +62,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 * Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) & [ICCV'21](https://ilr-workshop.github.io/ICCVW2021/) (Working on Artwork Recognition), and [ECCV'22](https://ilr-workshop.github.io/ECCVW2022/).
 * Conference Senior PC member/Meta-Reviewer: AAAI 2023
-* Conference PC member/Reviewer: CVPR 2023/2022, ICCV 2023, ECCV 2022, ACM MM 2022/2021/2020, ICASSP 2023, ACM MM Asia 2021.
+* Conference PC member/Reviewer: CVPR 2023/2022, ICCV 2023, NeurIPS 2023, ECCV 2022, ACM MM 2022/2021/2020, ICASSP 2023, ACM MM Asia 2021.
 * Journal Reviewer: International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), IEEE Signal Processing Letters (SPL), IEEE ACCESS.
 
 ## Selected Awards
