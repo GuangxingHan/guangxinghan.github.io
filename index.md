@@ -24,7 +24,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## Selected Publications
 
-* <a href="https://guangxinghan.github.io/">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin\*, **Guangxing Han**\* (**Corresponding Author**), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper](https://github.com/HL-hanlin/SMKD/)][[Code](https://github.com/HL-hanlin/SMKD)] <br> [Han Lin](https://hl-hanlin.github.io/) is a Columbia CS master student working with me.
+* <a href="https://arxiv.org/abs/2303.15466">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin\*, **Guangxing Han**\* (**Corresponding Author**), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper](https://arxiv.org/pdf/2303.15466.pdf)][[Code](https://github.com/HL-hanlin/SMKD)] <br> [Han Lin](https://hl-hanlin.github.io/) is a Columbia CS master student working with me.
 
 * <a href="https://arxiv.org/abs/2303.09674">DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection</a><br> Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper](https://arxiv.org/pdf/2303.09674.pdf)][[Paper](https://github.com/Phoenix-V/DiGeo)]
 
