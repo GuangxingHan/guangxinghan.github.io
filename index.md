@@ -10,9 +10,9 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## News
 
-* \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. Congratulations to Jiawei and Han Lin.
-* \[10/2022] One paper accepted by EMNLP 2022. Congratulations to Long.
-* \[07/2022] Two papers accepted by ECCV 2022. Congratulations to Jiawei and Long.
+* \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. 
+* \[10/2022] One paper accepted by EMNLP 2022. 
+* \[07/2022] Two papers accepted by ECCV 2022. 
 * \[06/2022] I will attend CVPR 2022 in person, and hope to see you guys in New Orleans.
 * \[03/2022] Two papers accepted by CVPR 2022 (including one first-author paper). Thanks to all the collaborators.
 * \[12/2021] One first-author paper accepted by AAAI 2022. Thanks to all the collaborators.
