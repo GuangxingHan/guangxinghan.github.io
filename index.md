@@ -10,7 +10,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## News
 
-* \[10/2022] One first-author paper accepted by TCSVT 2023. 
+* \[06/2023] One first-author paper accepted by TCSVT 2023. 
 * \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. 
 * \[10/2022] One paper accepted by EMNLP 2022. 
 * \[07/2022] Two papers accepted by ECCV 2022. 
