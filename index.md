@@ -10,7 +10,7 @@ My current research topics are computer vision and deep learning, and I am parti
 
 ## News
 
-* \[06/2023] One first-author paper accepted by TCSVT 2023. 
+* \[06/2023] One paper accepted by TCSVT 2023, and one accepted by Communications Medicine 2023. 
 * \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. 
 * \[10/2022] One paper accepted by EMNLP 2022. 
 * \[07/2022] Two papers accepted by ECCV 2022. 
@@ -26,6 +26,8 @@ My current research topics are computer vision and deep learning, and I am parti
 ## Selected Publications
 
 * <a href="https://guangxinghan.github.io">One-Shot Unsupervised Cross-Domain Person Re-Identification</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> Accepted by IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023. <br> [[Paper and Code Coming Soon](https://guangxinghan.github.io/)]
+
+<a href="https://www.nature.com/articles/s43856-023-00312-x">Rapidly adaptable automated interpretation of point-of-care COVID-19 diagnostics</a><br> Siddarth Arumugam, Jiawei Ma, Uzay Macar, **Guangxing Han**, Kathrine McAulay, etc.<br> Accepted by Communications Medicine, 2023. <br> [[Paper](https://www.nature.com/articles/s43856-023-00312-x)]
 
 * <a href="https://arxiv.org/abs/2303.15466">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin\*, **Guangxing Han**\* (**Corresponding Author**), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper](https://arxiv.org/pdf/2303.15466.pdf)][[Code](https://github.com/HL-hanlin/SMKD)] <br> [Han Lin](https://hl-hanlin.github.io/) is a Columbia CS master student working with me.
 
