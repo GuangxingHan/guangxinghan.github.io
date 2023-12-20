@@ -21,7 +21,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 * \[07/2021] Two papers accepted by ICCV 2021 (including one first-author paper). Special thanks to all the collaborators.
 
 ## ArXiv Preprints
-* <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) is a Meta intern working with me.
+* <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) is a Meta intern working with me.
 
 * <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang<br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
 
