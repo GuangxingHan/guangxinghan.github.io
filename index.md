@@ -10,7 +10,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 ## News
 
-* \[02/2024] Two papers accepted by CVPR 2024.
+* \[02/2024] Two papers on Multimodal Large Language Model are accepted by CVPR 2024.
 * \[06/2023] One paper accepted by TCSVT 2023, and one accepted by Communications Medicine 2023. 
 * \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. 
 * \[10/2022] One paper accepted by EMNLP 2022. 
