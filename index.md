@@ -23,11 +23,12 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 ## ArXiv Preprints
 
-* <a href="https://guangxinghan.github.io/">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Ser-Nam Lim <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
+* <a href="https://guangxinghan.github.io/">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
+ <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
 
 ## Selected Publications
 
-* <a href="https://arxiv.org/abs/2303.09674"></a><br> Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. <br> [[Paper and Code Coming Soon)]
+* <a href="https://arxiv.org/abs/2303.09674">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. <br> [[Paper and Code Coming Soon)]
 
 * <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024 <br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) is a Meta intern working with me.
 
