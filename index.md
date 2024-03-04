@@ -83,5 +83,5 @@ My current research topics focuses broadly on computer vision, multimedia and de
 * Best Demo Paper Award at [NAACL 2021](https://2021.naacl.org/blog/best-demo-award/).
 * 2017-2018 The First Prize Scholarship at Tsinghua University.
 * ACM MM 2018 Student Travel Grants.
-* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
-* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal**.
+* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, Gold Medal.
+* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, Bronze Medal.
