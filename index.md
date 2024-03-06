@@ -6,7 +6,7 @@ I am currently a Postdoctoral Research Scientist at [DVMM Lab](https://www.ee.co
 
 I received my Ph.D. from the Department of Computer Science and Technology at Tsinghua University in 2019 under the supervision of Prof. Chongrong Li. Before that, I received my bachelor's degree at the Department of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT) in 2014.
 
-My current research topics focuses broadly on computer vision, multimedia and deep learning. Some ongoing projects include research on Multimodal Large Language Model, and self-supervised learning. Feel free to contact me if you would like to learn more and collabrate!
+My current research topics focuses broadly on computer vision, multimedia and deep learning. Some ongoing projects include research on Multimodal Large Language Model, and few-shot/self-supervised learning. Feel free to contact me if you would like to learn more and collabrate!
 
 ## News
 
