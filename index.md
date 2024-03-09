@@ -76,7 +76,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 * Conference Area Chair: ACM MM 2024
 * Conference Senior PC member/Meta-Reviewer: AAAI 2024/2023
 * Conference PC member/Reviewer: CVPR 2024/2023/2022, ECCV 2024/2022, ICCV 2023, ICLR 2024, NeurIPS 2023, ACL 2024, ACM MM 2023/2022/2021/2020, ICASSP 2023, ACM MM Asia 2021.
-* Journal Reviewer: International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), IEEE Signal Processing Letters (SPL), IEEE ACCESS.
+* Journal Reviewer: International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Pattern Recognition (PR), IEEE Signal Processing Letters (SPL), IEEE ACCESS.
 
 ## Selected Awards
 
