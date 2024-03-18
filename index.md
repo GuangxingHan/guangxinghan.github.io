@@ -23,7 +23,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 ## ArXiv Preprints
 
-* <a href="https://arxiv.org/abs/2403.10492">Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning</a><br> Dongmin Park\*, Zhaofang Qian\*, **Guangxing Han**, Ser-Nam Lim <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)] <br> Zhaofang Qian is a UCSD master student working with me.
+* <a href="https://arxiv.org/abs/2403.10492">Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning</a><br> Dongmin Park\*, Zhaofang Qian\*, **Guangxing Han**, Ser-Nam Lim <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2403.10492.pdf)] <br> Zhaofang Qian is a UCSD master student working with me.
 
 
 * <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
