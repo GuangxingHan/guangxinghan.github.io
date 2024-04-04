@@ -10,7 +10,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 ## News
 
-* \[02/2024] Two papers on Multimodal Large Language Model are accepted by CVPR 2024.
+* \[02/2024] Two papers on Multimodal Large Language Model are accepted by CVPR 2024, and one is selected as hightlight.
 * \[06/2023] One paper accepted by TCSVT 2023, and one accepted by Communications Medicine 2023. 
 * \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. 
 * \[10/2022] One paper accepted by EMNLP 2022. 
@@ -33,7 +33,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 * <a href="https://guangxinghan.github.io/">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. <br> [[Paper and Code Coming Soon](https://guangxinghan.github.io/)]
 
-* <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024 <br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) is a Meta intern working with me.
+* <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Highlight**). Seattle WA, USA, 2024 <br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) is a Meta intern working with me.
 
 * <a href="https://ieeexplore.ieee.org/document/10176137">One-Shot Unsupervised Cross-Domain Person Re-Identification</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> Accepted by IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023. <br> [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10176137)]
 
