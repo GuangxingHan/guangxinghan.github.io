@@ -23,7 +23,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 ## ArXiv Preprints
 
-* <a href="https://arxiv.org/abs/2403.10492">Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning</a><br> Dongmin Park\*, Zhaofang Qian\*, **Guangxing Han**, Ser-Nam Lim <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2403.10492.pdf)] <br> Zhaofang Qian is a UCSD master student working with me.
+* <a href="https://arxiv.org/abs/2403.10492">Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning</a><br> Dongmin Park\*, Zhaofang Qian\*, **Guangxing Han**, Ser-Nam Lim <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2403.10492.pdf)] <br> Zhaofang Qian was a UCSD master student working with me.
 
 
 * <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
@@ -33,13 +33,13 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 * <a href="https://guangxinghan.github.io/">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. (acceptance rate 23.6%) <br> [[Paper and Code Coming Soon](https://guangxinghan.github.io/)]
 
-* <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Highlight**). Seattle WA, USA, 2024. (acceptance rate 3.6%) <br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) is a Meta intern working with me.
+* <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Highlight**). Seattle WA, USA, 2024. (acceptance rate 3.6%) <br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) was a Meta intern working with me.
 
 * <a href="https://ieeexplore.ieee.org/document/10176137">One-Shot Unsupervised Cross-Domain Person Re-Identification</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> Accepted by IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023. <br> [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10176137)]
 
 * <a href="https://www.nature.com/articles/s43856-023-00312-x">Rapidly adaptable automated interpretation of point-of-care COVID-19 diagnostics</a><br> Siddarth Arumugam\*, Jiawei Ma\*, Uzay Macar, **Guangxing Han**, Kathrine McAulay, etc.<br> Accepted by Communications Medicine, 2023. <br> [[Paper](https://www.nature.com/articles/s43856-023-00312-x)][[Code](https://github.com/smartestapp/smart-ml/)]
 
-* <a href="https://arxiv.org/abs/2303.15466">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin\*, **Guangxing Han**\* (**Corresponding Author**), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper](https://arxiv.org/pdf/2303.15466.pdf)][[Code](https://github.com/HL-hanlin/SMKD)] <br> [Han Lin](https://hl-hanlin.github.io/) is a Columbia CS master student working with me.
+* <a href="https://arxiv.org/abs/2303.15466">Supervised Masked Knowledge Distillation for Few-Shot Transformers</a><br> Han Lin\*, **Guangxing Han**\* (**Corresponding Author**), Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper](https://arxiv.org/pdf/2303.15466.pdf)][[Code](https://github.com/HL-hanlin/SMKD)] <br> [Han Lin](https://hl-hanlin.github.io/) was a Columbia CS master student working with me.
 
 * <a href="https://arxiv.org/abs/2303.09674">DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection</a><br> Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Vancouver, Canada, 2023. <br> [[Paper](https://arxiv.org/pdf/2303.09674.pdf)][[Code](https://github.com/Phoenix-V/DiGeo)]
 
