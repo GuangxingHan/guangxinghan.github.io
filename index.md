@@ -9,7 +9,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 My current research topics focuses broadly on computer vision, multimedia and deep learning. Some ongoing projects include research on Multimodal Large Language Model, and few-shot/self-supervised learning. Feel free to contact me if you would like to learn more and collabrate!
 
 ## News
-
+* \[05/2024] Serving as Area Chair (AC) for ACM MM 2024, BMVC 2024, and Senior PC member (SPC/Meta Reviewer) for AAAI 2024.
 * \[02/2024] Two papers on Multimodal Large Language Model are accepted by CVPR 2024, and one is selected as hightlight.
 * \[06/2023] One paper accepted by TCSVT 2023, and one accepted by Communications Medicine 2023. 
 * \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. 
@@ -77,7 +77,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 * Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) (Working on Artwork Recognition), [ICCV'21](https://ilr-workshop.github.io/ICCVW2021/) (Website Chair), [ECCV'22](https://ilr-workshop.github.io/ECCVW2022/) (Website Chair), and ECCV'24.
 * Conference Area Chair: ACM MM 2024
-* Conference Senior PC member/Meta-Reviewer: AAAI 2024/2023
+* Conference Senior PC member/Meta-Reviewer: AAAI 2024/2023, BMVC 2024
 * Conference PC member/Reviewer: CVPR 2024/2023/2022, ECCV 2024/2022, ICCV 2023, ICLR 2024, NeurIPS 2023, ACL 2024, ACM MM 2023/2022/2021/2020, ICASSP 2023, ACM MM Asia 2021.
 * Journal Reviewer: International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Pattern Recognition (PR), IEEE Signal Processing Letters (SPL), IEEE ACCESS.
 
