@@ -31,7 +31,7 @@ My current research topics focuses broadly on computer vision, multimedia and de
 
 ## Selected Publications
 
-* <a href="https://guangxinghan.github.io/">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. (acceptance rate 23.6%) <br> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.pdf)]
+* <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. (acceptance rate 23.6%) <br> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.pdf)]
 
 * <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Highlight**). Seattle WA, USA, 2024. (acceptance rate 2.8%) <br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) was a Meta intern working with me.
 
