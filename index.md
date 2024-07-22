@@ -2,7 +2,7 @@
 
 ## Biography
 
-I am a Research Scientist at Google, working on Multimodal Large Language Models. I was a Postdoctoral Research Scientist at [DVMM Lab](https://www.ee.columbia.edu/ln/dvmm/newHome.htm), Columbia University, working with Prof. Shih-Fu Chang.
+I am a Research Scientist at Google. I was a Postdoctoral Research Scientist at [DVMM Lab](https://www.ee.columbia.edu/ln/dvmm/newHome.htm), Columbia University, working with Prof. Shih-Fu Chang.
 
 I received my Ph.D. from the Department of Computer Science and Technology at Tsinghua University in 2019 under the supervision of Prof. Chongrong Li. Before that, I received my bachelor's degree at the Department of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT) in 2014.
 
