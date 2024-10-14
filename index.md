@@ -9,7 +9,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 My current research topics focuses broadly on computer vision, multimedia and deep learning. Some ongoing projects include research on Multimodal Large Language Model, hallucinations, and few-shot/self-supervised learning. *I am looking for student researchers to collaborate on one of the above topics. Feel free to contact me if you would like to learn more and collabrate!*
 
 ## News
-* \[06/2024] Serving as Area Chair for ACM MM 2024, BMVC 2024, and Senior PC member for AAAI 2025.
+* \[06/2024] Serving as an Area Chair for ACM MM 2024, BMVC 2024, and a Senior PC member for AAAI 2025.
 * \[02/2024] Two papers on Multimodal Large Language Model are accepted by CVPR 2024, and one is selected as hightlight.
 * \[06/2023] One paper accepted by TCSVT 2023, and one accepted by Communications Medicine 2023. 
 * \[02/2023] Two papers accepted by CVPR 2023 and one accepted by ICLR 2023. 
