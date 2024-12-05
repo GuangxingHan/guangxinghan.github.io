@@ -5,9 +5,6 @@
     {% capture url %}{% if lchar == "/" %}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif %}{% endcapture %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    .rounded-image {
-        border-radius: 15px;
-    }
     <title>Guangxing Han</title>
 
     <script
@@ -31,7 +28,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ '/' | relative_url }}"><img src="{{ site.logo_url }}" class="rounded-image">
+        <a href="{{ '/' | relative_url }}"><img src="{{ site.logo_url }}" class="rounded-circle">
           <h1>Guangxing Han</h1>
         </a>
         <p>Email: guangxinghan@gmail.com</p>
