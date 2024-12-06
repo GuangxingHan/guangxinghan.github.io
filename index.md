@@ -1,5 +1,3 @@
-# Welcome to Guangxing Han(韩光星)'s Homepage
-
 ## Biography
 
 I am a Research Scientist at Google DeepMind. I was a Postdoctoral Research Scientist at [DVMM Lab](https://www.ee.columbia.edu/ln/dvmm/newHome.htm), Columbia University, working with Prof. Shih-Fu Chang.
