@@ -73,9 +73,9 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 ## Professional Services
 
 * Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) (Working on Artwork Recognition), [ICCV'21](https://ilr-workshop.github.io/ICCVW2021/) (Website Chair), [ECCV'22](https://ilr-workshop.github.io/ECCVW2022/) (Website Chair), [ECCV'24](https://ilr-workshop.github.io/ECCVW2024/) (Website Chair), and [ICCV'25](https://ilr-workshop.github.io/ICCVW2025/) (Website Chair).
+* Funding Reviewer: Google Research Scholar Program 2025
 * Conference Area Chair: ACM MM 2025/2024, BMVC 2025/2024
 * Conference Senior PC member/Meta-Reviewer: AAAI 2026/2025/2024/2023
-* Funding Reviewer: Google Research Scholar Program 2025
 * Conference PC member/Reviewer: NeurIPS 2025/2024/2023, ICLR 2025/2024, ICML 2025, CVPR 2024/2023/2022, ECCV 2024/2022, ICCV 2023, ACM MM 2023/2022/2021/2020, ICASSP 2023, ACM MM Asia 2021, ICCV'25/ECCV'24 Instance-Level Recognition (ILR) workshops.
 * Journal Reviewer: International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Pattern Recognition (PR), IEEE Signal Processing Letters (SPL), IEEE ACCESS, Information Fusion.
 
