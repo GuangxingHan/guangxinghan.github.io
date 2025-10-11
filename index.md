@@ -5,6 +5,7 @@ I am a Research Scientist at Google DeepMind, working on [Gemini](https://arxiv.
 I received my Ph.D. from the Department of Computer Science and Technology at Tsinghua University in 2019 under the supervision of Prof. Chongrong Li. Before that, I received my bachelor's degree at the Department of Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT) in 2014.
 
 ## News
+* \[10/2025] I will be attending ICCV 2025 in Hawaii. Hope to connect with many of you there!
 * \[06/2024] Serving as an Area Chair for ACM MM 2024, BMVC 2024, and a Senior PC member for AAAI 2025.
 * \[02/2024] Two papers on Multimodal Large Language Model are accepted by CVPR 2024, and one is selected as hightlight.
 * \[06/2023] One paper accepted by TCSVT 2023, and one accepted by Communications Medicine 2023. 
