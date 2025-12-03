@@ -24,10 +24,10 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 
 * <a href="https://arxiv.org/abs/2405.18405">WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization</a><br> Jiawei Ma, Yulei Niu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2405.18405)]
 
-* <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
- <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
-
 ## Selected Publications
+
+* <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
+<br> Accepted by International Journal of Computer Vision (IJCV) <br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
 
 * <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. <br> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.pdf)]
 
