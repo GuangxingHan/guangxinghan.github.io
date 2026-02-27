@@ -20,9 +20,9 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 
 
 ## Selected Publications
-* <a href="https://arxiv.org/pdf/2410.16512?">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</a><br> Google Gemini Team <br>
+* <a href="https://arxiv.org/pdf/2507.06261">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</a><br> Google Gemini Team <br>
 
-* <a href="https://arxiv.org/pdf/2410.16512?">TIPS: Text-Image Pretraining with Spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br>
+* <a href="https://arxiv.org/pdf/2410.16512">TIPS: Text-Image Pretraining with Spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br>
 
 * <a href="https://link.springer.com/article/10.1007/s11263-025-02592-3">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
 <br> Accepted by International Journal of Computer Vision (**IJCV**), 2025 <br>
