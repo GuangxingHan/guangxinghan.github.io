@@ -25,9 +25,10 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 * <a href="https://arxiv.org/abs/2405.18405">WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization</a><br> Jiawei Ma, Yulei Niu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang <br> arXiv preprint (arXiv)<br> [[Paper](https://arxiv.org/pdf/2405.18405)]
 
 ## Selected Publications
+* <a href="https://arxiv.org/pdf/2410.16512?">Tips: Text-image pretraining with spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
 
-* <a href="https://arxiv.org/abs/2204.07841">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
-<br> Accepted by International Journal of Computer Vision (**IJCV**), 2025 <br> [[Paper](https://arxiv.org/pdf/2204.07841.pdf)]
+* <a href="https://link.springer.com/article/10.1007/s11263-025-02592-3">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
+<br> Accepted by International Journal of Computer Vision (**IJCV**), 2025 <br> [[Arxiv](https://arxiv.org/pdf/2204.07841.pdf)]
 
 * <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. <br> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.pdf)]
 
@@ -75,7 +76,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 
 * Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) (Working on Artwork Recognition), ICCV [2021](https://ilr-workshop.github.io/ICCVW2021/)/[2025](https://ilr-workshop.github.io/ICCVW2025/) (Website Chair) and ECCV [2022](https://ilr-workshop.github.io/ECCVW2022/)/[2024](https://ilr-workshop.github.io/ECCVW2024/) (Website Chair).
 * Funding Reviewer: Google Research Scholar Program 2025
-* Conference Area Chair: ACM MM 2025/2024, BMVC 2025/2024
+* Conference Area Chair: ACM MM 2026/2025/2024, BMVC 2025/2024
 * Conference Senior PC member/Meta-Reviewer: AAAI 2026/2025/2024/2023
 * Conference PC member/Reviewer: CVPR 2026/2024/2023/2022, NeurIPS 2025/2024/2023, ICLR 2025/2024, ICML 2025, ECCV 2024/2022, ICCV 2023, ACM MM 2023/2022/2021/2020, ICASSP 2023, ACM MM Asia 2021, ICCV'25/ECCV'24 Instance-Level Recognition (ILR) workshops.
 * Journal Reviewer: International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Pattern Recognition (PR), IEEE Signal Processing Letters (SPL), IEEE ACCESS, Information Fusion.
