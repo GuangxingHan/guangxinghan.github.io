@@ -18,14 +18,11 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 * \[10/2021] One paper accepted by NeurIPS 2021 Datasets and Benchmarks Track. Congratulations to the amazing team!
 * \[07/2021] Two papers accepted by ICCV 2021 (including one first-author paper). Special thanks to all the collaborators.
 
-## ArXiv Preprints
-
-* <a href="https://arxiv.org/abs/2403.10492">Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning</a><br> Dongmin Park\*, Zhaofang Qian\*, **Guangxing Han**, Ser-Nam Lim <br> arXiv preprint (arXiv)<br> 
-
-* <a href="https://arxiv.org/abs/2405.18405">WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization</a><br> Jiawei Ma, Yulei Niu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang <br> arXiv preprint (arXiv)<br>
 
 ## Selected Publications
-* <a href="https://arxiv.org/pdf/2410.16512?">Tips: Text-image pretraining with spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br>
+* <a href="https://arxiv.org/pdf/2410.16512?">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</a><br> Google Gemini Team <br>
+
+* <a href="https://arxiv.org/pdf/2410.16512?">TIPS: Text-Image Pretraining with Spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br>
 
 * <a href="https://link.springer.com/article/10.1007/s11263-025-02592-3">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
 <br> Accepted by International Journal of Computer Vision (**IJCV**), 2025 <br>
@@ -33,6 +30,10 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 * <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. <br> 
 
 * <a href="https://arxiv.org/abs/2312.12423">Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model</a><br> Shraman Pramanick\*, **Guangxing Han**\*, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Highlight**). Seattle WA, USA, 2024. (acceptance rate 2.8%) <br> [[Paper](https://arxiv.org/pdf/2312.12423.pdf)][[Project](https://shramanpramanick.github.io/VistaLLM/)] <br> [Shraman Pramanick](https://shramanpramanick.github.io/) was a Meta intern working with me.
+
+* <a href="https://arxiv.org/abs/2403.10492">Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning</a><br> Dongmin Park\*, Zhaofang Qian\*, **Guangxing Han**, Ser-Nam Lim <br> arXiv preprint (arXiv)<br> 
+
+* <a href="https://arxiv.org/abs/2405.18405">WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization</a><br> Jiawei Ma, Yulei Niu, Shiyuan Huang, **Guangxing Han**, Shih-Fu Chang <br> arXiv preprint (arXiv)<br>
 
 * <a href="https://ieeexplore.ieee.org/document/10176137">One-Shot Unsupervised Cross-Domain Person Re-Identification</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> Accepted by IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023. <br> [[Paper](https://ieeexplore.ieee.org/document/10176137)]
 
