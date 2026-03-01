@@ -25,7 +25,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 * <a href="https://arxiv.org/pdf/2410.16512">TIPS: Text-Image Pretraining with Spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br>
 
 * <a href="https://link.springer.com/article/10.1007/s11263-025-02592-3">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
-<br> Accepted by International Journal of Computer Vision (**IJCV**), 2025 <br>
+<br> Accepted by International Journal of Computer Vision (**IJCV**), 2026 <br>
 
 * <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html">Few-Shot Object Detection with Foundation Models</a><br> **Guangxing Han**, Ser-Nam Lim<br> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Seattle WA, USA, 2024. <br> 
 
