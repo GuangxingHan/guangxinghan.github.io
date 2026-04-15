@@ -22,7 +22,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 ## Selected Publications
 * <a href="https://arxiv.org/pdf/2507.06261">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</a><br> Google Gemini Team <br>
 
-* <a href="https://arxiv.org/pdf/2604.12012">TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment</a><br> Google DeepMind Team <br> Accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Denver, 2026 <br>
+* <a href="https://arxiv.org/pdf/2604.12012">TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment</a><br> Google DeepMind Team <br> Accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Denver CO, USA, 2026 <br>
 
 * <a href="https://arxiv.org/pdf/2410.16512">TIPS: Text-Image Pretraining with Spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br>
 
