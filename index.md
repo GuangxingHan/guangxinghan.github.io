@@ -22,6 +22,8 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 ## Selected Publications
 * <a href="https://arxiv.org/pdf/2507.06261">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</a><br> Google Gemini Team <br>
 
+* <a href="https://arxiv.org/pdf/2604.12012">TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment</a><br> Google DeepMind Team <br> Accepted by The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Denver, 2026 <br>
+
 * <a href="https://arxiv.org/pdf/2410.16512">TIPS: Text-Image Pretraining with Spatial awareness</a><br> Google DeepMind Team <br> Accepted by The Thirteenth International Conference on Learning Representations (**ICLR**), Singapore, 2025 <br>
 
 * <a href="https://link.springer.com/article/10.1007/s11263-025-02592-3">Multi-Modal Few-Shot Object Detection with Meta-Learning-Based Cross-Modal Prompting</a><br> **Guangxing Han**, Long Chen, Jiawei Ma, Shiyuan Huang, Rama Chellappa, Shih-Fu Chang
@@ -75,7 +77,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 
 ## Professional Services
 
-* Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) (Working on Artwork Recognition), ICCV [2021](https://ilr-workshop.github.io/ICCVW2021/)/[2025](https://ilr-workshop.github.io/ICCVW2025/) (Website Chair) and ECCV [2022](https://ilr-workshop.github.io/ECCVW2022/)/[2024](https://ilr-workshop.github.io/ECCVW2024/) (Website Chair).
+* Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) (Working on Artwork Recognition), ICCV [2021](https://ilr-workshop.github.io/ICCVW2021/)/[2025](https://ilr-workshop.github.io/ICCVW2025/) (Website Chair) and ECCV [2022](https://ilr-workshop.github.io/ECCVW2022/)/[2024](https://ilr-workshop.github.io/ECCVW2024/)/[2026] (Website Chair).
 * Funding Reviewer: Google Research Scholar Program 2025
 * Conference Area Chair: ACM MM 2026/2025/2024, BMVC 2025/2024
 * Conference Senior PC member/Meta-Reviewer: AAAI 2026/2025/2024/2023
