@@ -79,6 +79,7 @@ I received my Ph.D. from the Department of Computer Science and Technology at Ts
 
 * Co-organizer of Instance-Level Recognition Workshop at [ECCV'20](https://ilr-workshop.github.io/ECCVW2020/) (Working on Artwork Recognition), ICCV [2021](https://ilr-workshop.github.io/ICCVW2021/)/[2025](https://ilr-workshop.github.io/ICCVW2025/) (Website Chair) and ECCV [2022](https://ilr-workshop.github.io/ECCVW2022/)/[2024](https://ilr-workshop.github.io/ECCVW2024/)/2026 (Website Chair).
 * Funding Reviewer: Google Research Scholar Program 2025
+* Scholarship Reviewer: 2026 Google PhD Fellowship Program
 * Conference Area Chair: ACM MM 2026/2025/2024, BMVC 2025/2024
 * Conference Senior PC member/Meta-Reviewer: AAAI 2026/2025/2024/2023
 * Conference PC member/Reviewer: CVPR 2026/2024/2023/2022, NeurIPS 2025/2024/2023, ICLR 2025/2024, ICML 2025, ECCV 2024/2022, ICCV 2023, ACM MM 2023/2022/2021/2020, ICASSP 2023, ACM MM Asia 2021, ICCV'25/ECCV'24 Instance-Level Recognition (ILR) workshops.
